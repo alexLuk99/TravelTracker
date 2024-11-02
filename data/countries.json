@@ -1,0 +1,6 @@
+[
+    { "code": "DE", "name": "Germany", "visited": false },
+    { "code": "FR", "name": "France", "visited": false },
+    { "code": "IT", "name": "Italy", "visited": false }
+  ]
+  
